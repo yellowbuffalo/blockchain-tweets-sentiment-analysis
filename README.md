@@ -47,4 +47,4 @@ access_secret = 'XXXXXXXXXXXXXXXXXXX'
 *  The task will start!
 
 ## Demo:
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](https://img.youtube.com/vi/p2HIDqMh2jQ/default.jpg)](https://youtu.be/p2HIDqMh2jQ)
