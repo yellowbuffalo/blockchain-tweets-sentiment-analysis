@@ -40,4 +40,11 @@ access_secret = 'XXXXXXXXXXXXXXXXXXX'
   ```console
   user@bar:~$ airflow scheduler
   ```
-*  Then, http://localhost:8080 will show the task, running and start the task <span style="color:orange;">Word up</span>
+*  Then, http://localhost:8080 will show the task, running and start the task
+![Airflow](https://github.com/yellowbuffalo/blockchain-tweets-sentiment-analysis/blob/main/img/airflow.png?raw=true)
+![graph](https://github.com/yellowbuffalo/blockchain-tweets-sentiment-analysis/blob/main/img/airflow_graph.png?raw=true)
+
+*  The task will start!
+
+## Demo:
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
