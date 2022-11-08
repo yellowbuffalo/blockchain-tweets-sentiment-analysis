@@ -47,3 +47,15 @@ access_secret = 'XXXXXXXXXXXXXXXXXXX'
 ![graph](https://github.com/yellowbuffalo/blockchain-tweets-sentiment-analysis/blob/main/img/airflow_graph.png?raw=true)
 
 *  The task will start!
+
+## Note:
+Can also run the code below by using 3 terminal:
+  ```console
+  user@bar:~$ python3 {{script path}}/tweet_sender.py
+  ```
+  ```console
+  user@bar:~$ python3 {{script path}}/tweets_connect.py
+  ```
+  ```console
+  user@bar:~$ python3 {{script path}}/app.py
+  ```
