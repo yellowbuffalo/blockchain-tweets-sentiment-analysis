@@ -1,5 +1,5 @@
-# Tweets Sentiment Analysis - Keyword: blockchain
-The project for live update sentiment analysis on Twitter, using PySpark, Airflow, socket to build the project in CI/CD.
+# Tweets Sentiment Analysis - Keyword: blockchain - Live Update
+The project for live update sentiment analysis on Twitter, using PySpark, Airflow, MongoDB, socket to build the project in CI/CD.
 ## Demo Video:
 [![Watch the video](https://img.youtube.com/vi/p2HIDqMh2jQ/0.jpg)](https://youtu.be/p2HIDqMh2jQ)
 ## Project Scheme:
