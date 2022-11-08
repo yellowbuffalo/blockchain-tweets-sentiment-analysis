@@ -1,5 +1,7 @@
 # Tweets Sentiment Analysis - Keyword: blockchain
 The project for live update sentiment analysis on Twitter, using PySpark, Airflow, socket to build the project in CI/CD.
+## Demo:
+[![Watch the video](https://img.youtube.com/vi/p2HIDqMh2jQ/default.jpg)](https://youtu.be/p2HIDqMh2jQ)
 ## Project Scheme:
   1. Using socket to get tweets(query:blockchain) from [Twitter API](https://developer.twitter.com/en/docs/twitter-api), and listen in port 5555.
   2. Implement PySpark to  connect data form port 5555, and conduct NLP dat processing and sentiment classify for tweets.
@@ -45,6 +47,3 @@ access_secret = 'XXXXXXXXXXXXXXXXXXX'
 ![graph](https://github.com/yellowbuffalo/blockchain-tweets-sentiment-analysis/blob/main/img/airflow_graph.png?raw=true)
 
 *  The task will start!
-
-## Demo:
-[![Watch the video](https://img.youtube.com/vi/p2HIDqMh2jQ/default.jpg)](https://youtu.be/p2HIDqMh2jQ)
