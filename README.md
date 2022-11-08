@@ -30,7 +30,7 @@ access_secret = 'XXXXXXXXXXXXXXXXXXX'
   user@bar:~$ airflow db init
   ```
 *  And put the dags and etc files into "airflow" file as the structure below:
-![structure]([https://github.com/yellowbuffalo/blockchain-tweets-sentiment-analysis/blob/main/img/process.JPG](https://github.com/yellowbuffalo/blockchain-tweets-sentiment-analysis/blob/main/img/tree.png)?raw=true)
+![structure](https://github.com/yellowbuffalo/blockchain-tweets-sentiment-analysis/blob/main/img/tree.png?raw=true)
 
 *  Running the code below to start the Airflow session:
   ```console
